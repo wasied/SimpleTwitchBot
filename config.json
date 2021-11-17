@@ -1,0 +1,22 @@
+{
+    "id_username": "twitch_username",
+    "id_password": "twitch_password",
+    "id_clientid": "oauth:your_oauth_token",
+    "channels": ["streamer_username"],
+
+    "sql_host": "127.0.0.1",
+    "sql_user": "root",
+    "sql_base": "simple_twitch_bot",
+    "sql_pass": "toor",
+
+    "min_character_uppercase_detection": 50,
+    "max_uppercase_percentage": 80,
+    "max_emojis_per_msg": 30,
+    "ban_time_minutes": 3,
+
+    "cmd_switch_automod": "automod",
+    "cmd_add_cmd": "newcmd",
+    "cmd_del_cmd": "delcmd",
+    "cooldown_cmd": 10,
+    "streamer_username": "MaaxITwitch"
+}
