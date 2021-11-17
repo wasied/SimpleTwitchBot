@@ -1,0 +1,22 @@
+{
+  "name": "simpletwitchbot",
+  "version": "1.0.0",
+  "description": "A simple Twitch chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaaxIT/SimpleTwitchBot.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "MaaxIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaaxIT/SimpleTwitchBot/issues"
+  },
+  "homepage": "https://github.com/MaaxIT/SimpleTwitchBot#readme"
+}
