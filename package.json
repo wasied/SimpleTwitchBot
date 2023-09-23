@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaaxIT/SimpleTwitchBot.git"
+    "url": "git+https://github.com/wasied/SimpleTwitchBot.git"
   },
   "keywords": [
     "chatbot"
   ],
-  "author": "MaaxIT",
+  "author": "wasied",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MaaxIT/SimpleTwitchBot/issues"
+    "url": "https://github.com/wasied/SimpleTwitchBot/issues"
   },
-  "homepage": "https://github.com/MaaxIT/SimpleTwitchBot#readme"
+  "homepage": "https://github.com/wasied/SimpleTwitchBot#readme"
 }
